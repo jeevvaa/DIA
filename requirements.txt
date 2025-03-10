@@ -1,0 +1,10 @@
+numpy
+tensorflow
+gym
+tensorboard
+imageio
+pygame
+imageio[pyav]
+imageio[ffmpeg]
+opencv-python
+scikit-learn
